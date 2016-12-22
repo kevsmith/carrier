@@ -1,0 +1,8 @@
+%{"conduit": {:git, "https://github.com/operable/conduit.git", "06bb0ed9638c5bf506a83d6c947068332d4dca11", []},
+  "emqttc": {:git, "https://github.com/emqtt/emqttc.git", "815ebeca103025bbb5eb8e4b2f6a5f79e1236d4c", [branch: "master"]},
+  "gen_logger": {:git, "https://github.com/emqtt/gen_logger.git", "b7aad1c3795c218e378eb1e37adce0fcd349680e", [branch: "master"]},
+  "getopt": {:git, "https://github.com/jcomellas/getopt.git", "68fe326f2c7585eb32a5b136dffc75428a53fc02", [branch: "master"]},
+  "goldrush": {:git, "https://github.com/basho/goldrush.git", "8f1b715d36b650ec1e1f5612c00e28af6ab0de82", [tag: "0.1.9"]},
+  "lager": {:git, "https://github.com/basho/lager.git", "81eaef0ce98fdbf64ab95665e3bc2ec4b24c7dac", [branch: "master"]},
+  "poison": {:hex, :poison, "2.2.0", "4763b69a8a77bd77d26f477d196428b741261a761257ff1cf92753a0d4d24a63", [:mix], []},
+  "uuid": {:hex, :uuid, "1.1.5", "96cb36d86ee82f912efea4d50464a5df606bf3f1163d6bdbb302d98474969369", [:mix], []}}
